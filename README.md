@@ -1,4 +1,5 @@
-# MIKOI
+# MIKOIeu
+
 🤜🏼 Im programming in Html, Css, JavaScript, PHP and a little in c++.
 🤜🏼 I want to learn go(golang) its very new language and fast.
 🤜🏼 Im interested in smart technology.
