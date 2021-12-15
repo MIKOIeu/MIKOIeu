@@ -1,4 +1,4 @@
-# MIKOIeu
+# devMIKOI
 
 	🤜🏼 Im programming in Html, Css, JavaScript, PHP and a little in c++.
 	🤜🏼 Im interested in smart technology.
